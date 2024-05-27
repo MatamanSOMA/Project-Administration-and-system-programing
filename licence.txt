@@ -1,0 +1,2 @@
+
+Ce README fournit une vue d'ensemble du script, explique comment l'utiliser, et donne des informations sur la contribution et la licence. Assurez-vous d'inclure un fichier `LICENSE` approprié si vous publiez ce code.
